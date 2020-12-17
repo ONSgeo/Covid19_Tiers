@@ -5,14 +5,20 @@ Lookups for 2020 Local Authority Districts (also known as Lower Tier Local Autho
 
 
 Lookups produced:
+# England (effective 19/12/2020, announced 17/12/2020)
+- Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_19_12_2020.zip[
+- Published list: https://www.gov.uk/guidance/full-list-of-local-restriction-tiers-by-area
+- Published areas were a mix of different geographies. We have used the smallest geographic unit all areas listed had in common – Local Authority Districts – to create this lookup
+- Boundaries that correspond to the 2020 areas and codes can be found: https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CMAY_2020)
+
 # England (effective 16/12/2020, announced 14/12/2020)
-- Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_16_12_2020.csv
+- Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_16_12_2020.zip
 - Published list: https://www.gov.uk/guidance/full-list-of-local-restriction-tiers-by-area
 - Published areas were a mix of different geographies. We have used the smallest geographic unit all areas listed had in common – Local Authority Districts – to create this lookup
 - Boundaries that correspond to the 2020 areas and codes can be found: https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CMAY_2020)
 
 # England (effective 02/12/2020, announced 26/11/2020)
-- Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_02_12_2020.csv
+- Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_02_12_2020.zip
 - Published list: https://www.gov.uk/guidance/full-list-of-local-restriction-tiers-by-area
 - Published areas were a mix of different geographies. We have used the smallest geographic unit all areas listed had in common – Local Authority Districts – to create this lookup
 - Boundaries that correspond to the 2020 areas and codes can be found: https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CMAY_2020)
