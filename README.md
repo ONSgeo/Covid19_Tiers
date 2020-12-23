@@ -20,7 +20,7 @@ Lookups produced:
 - https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_02_12_2020.zip
 
 
-# Split Postcodes in England and thier Tiers (effective 02/12/2020)
+# Split Postcodes in England and their tiers (effective 02/12/2020)
 -	Some postcodes in England straddle the border of multiple Local Authorities. This lookup provides a list of those postcodes (which represent around 1% of all postcodes in England). In theory this means different parts of a postcode could be in different tiers if it crosses between Local Authorities with different restrictions. This lookup suggests just under 0.1% of postcodes in England are split to some extent between different tiers. However, there are caveats around this value which are explained below which mean this value should be considered an upper estimate. 
 - Lookup: https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_Split_PCD_Covid_Tiers_Effective_02_12_2020.csv
 - What the different columns mean:
