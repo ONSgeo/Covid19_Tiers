@@ -8,6 +8,8 @@ Lookups for 2020 Local Authority Districts (also known as Lower Tier Local Autho
 - Boundaries that correspond to the 2020 areas and codes can be found: https://geoportal.statistics.gov.uk/search?collection=Dataset&sort=name&tags=all(BDY_LAD%2CMAY_2020)
 
 Lookups produced:
+# England (effective 26/12/2020, announced 23/12/2020)
+- https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_26_12_2020.zip
 # England (effective 20/12/2020, announced 19/12/2020)
 - https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_20_12_2020.zip
 # England (effective 19/12/2020, announced 17/12/2020)
