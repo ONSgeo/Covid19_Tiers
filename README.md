@@ -9,7 +9,7 @@ Lookups for 2020 Local Authority Districts (also known as Lower Tier Local Autho
 
 Lookups produced:
 # England (effective 31/12/2020, announced 30/12/2020)
-- https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_26_12_2020.zip
+- https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_31_12_2020.zip
 # England (effective 26/12/2020, announced 23/12/2020)
 - https://github.com/ONSgeo/Covid19_Tiers/blob/main/England_LAD_Covid_Tiers_Effective_26_12_2020.zip
 # England (effective 20/12/2020, announced 19/12/2020)
