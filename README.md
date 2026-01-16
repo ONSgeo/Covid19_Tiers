@@ -1,4 +1,4 @@
-# NOTICE: This GitHub is due to migrate to ONS Digita.
+# NOTICE: This GitHub is due to migrate to ONS Digital.
 ## As part of the review work, these data tables will be deleted from GitHub. 
 ## If you still require these data, please contact ONS.Geography@ons.gov.uk
 
