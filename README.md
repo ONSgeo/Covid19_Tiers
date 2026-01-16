@@ -1,5 +1,6 @@
-# NOTICE: This GitHub is due to migrate to ONS Digital as part of the review work, these data tables will be deleted from GitHub. 
-# If you still require these data, please contact ONS.Geography@ons.gov.uk
+# NOTICE: This GitHub is due to migrate to ONS Digita.
+## As part of the review work, these data tables will be deleted from GitHub. 
+## If you still require these data, please contact ONS.Geography@ons.gov.uk
 
 # Covid 19 local restriction tiers by area
 
